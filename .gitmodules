@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = git@github.com:TSYF/react-ts-protobuf.git
+[submodule "api/protobuf.go"]
+	path = api/protobuf.go
+	url = git@github.com:TSYF/go-rest-protobuf.git
